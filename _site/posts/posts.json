@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to R for Data Science and Analytics",
+    "description": "Welcome to our new blog, R for Data Science and Analytics. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Wong Wei Ling",
+        "url": "https://www.linkedin.com/in/wei-ling-wong-a84130131/"
+      }
+    ],
+    "date": "2021-08-16",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-08-16T15:46:11+08:00",
+    "input_file": "welcome.knit.md"
+  }
+]
